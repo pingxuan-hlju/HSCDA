@@ -38,7 +38,7 @@ The MNCDA code has been implemented and tested in the following development envi
 1. **Data preprocessing**: Constructs the adjacency matrices, features, and other inputs for training the model.  
     
     ```bash
-    5k_data_process.ipynb
+    data_process.ipynb
     ```
     
 2. **Train and test the model**.  
